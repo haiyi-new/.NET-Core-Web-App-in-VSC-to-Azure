@@ -1,0 +1,7 @@
+/home/imano00/dotnet/SistemSijil/bin/Publish/SistemSijil
+/home/imano00/dotnet/SistemSijil/bin/Publish/appsettings.Development.json
+/home/imano00/dotnet/SistemSijil/bin/Publish/appsettings.json
+/home/imano00/dotnet/SistemSijil/bin/Publish/SistemSijil.dll
+/home/imano00/dotnet/SistemSijil/bin/Publish/SistemSijil.deps.json
+/home/imano00/dotnet/SistemSijil/bin/Publish/SistemSijil.runtimeconfig.json
+/home/imano00/dotnet/SistemSijil/bin/Publish/SistemSijil.pdb
